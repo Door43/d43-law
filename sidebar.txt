@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[law:home|Door43 (law)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-law|d43-law repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-law/archive/master.zip|d43-law.zip]]
+
+**Recent Changes**
+{{changes>ns = law}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/law|Ethnologue data]]
+
